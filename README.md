@@ -1,4 +1,5 @@
-#### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, "Saubhagya Maurya"</h1>
+## 🙋‍♂️ 
+#### <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 👏"Saubhagya Maurya"</h1>
 
 <h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
@@ -27,20 +28,18 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
   
 </div> 
 
-
 <br/>
 <h2 align="center">Stats ⚡</h2>
 <br>
  
 <p display="flex" align="center">
   
-  <a href="https://github.com/100Saubhagya?tab=repositories">
-    <img width="400" height="auto"  alt="Saubhagya's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=100Saubhagya&show_icons=true&theme=algolia&count_private=true" />
+  <a href="https://github.com/100saubhagya?tab=repositories">
+    <img width="400" height="auto"  alt="saubhagya's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=100saubhagya&show_icons=true&theme=algolia&count_private=true" />
   </a> 
   
   
-<img alt="Saubhaya's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=100saubhagya&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
 
 
@@ -59,7 +58,6 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
 
 
 
-[![Saubhagya's github activity graph](https://activity-graph.herokuapp.com/graph?username=100saubhagya&theme=react-dark)](https://github.com/100saubhagya/github-readme-activity-graph)
 
 
 
@@ -74,7 +72,8 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
 
 
 
-<!--
+
+
 **Saubhagya/Saubhagya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
