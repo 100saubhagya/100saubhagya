@@ -43,9 +43,7 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
 
 
 
- 
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=100saubhagya&hide=smalltalk&theme=algolia&layout=compact" alt="SaubhagyaMaurya" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=100saubhagya&hide=smalltalk&theme=algolia&layout=compact" alt="SaubhagyaMaurya" />
 </p>
 
 <br/> 
