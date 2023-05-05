@@ -40,6 +40,7 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
   </a> 
   
   
+   <img alt="Saubhaya's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=100saubhagya&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
 
 
