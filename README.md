@@ -1,5 +1,5 @@
 ## 🙋‍♂️ 
-#### <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, "😊 Saubhagya Maurya"</h1>
+#### <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, " '✌' Saubhagya Maurya"</h1>
 
 <h1 align="center"><a href="#"><img width="200" height="200" src="https://i.imgur.com/799y5A3.png"/></a></h1>
 
@@ -9,7 +9,7 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
 
 - 📫 How to reach me **saubhagyamaurya11@.com**
 
-- ⚡ Fun fact **I like cooking and singing very often.**
+- ⚡ Fun fact **I  make  fun somtimes..**
 
 
 <h2 align="center">:computer: Tech Stacks </h2>
@@ -77,11 +77,11 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on .(web pages and web apps)
+- 🌱 I’m currently learning .
+- 👯 I’m looking to collaborate on : Projects that make me to think.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: **saubhagyamaurya11@.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
