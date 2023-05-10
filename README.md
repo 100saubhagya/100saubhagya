@@ -106,7 +106,7 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on .(web pages and web apps)
-- 🌱 I’m currently learning .
+- 🌱 I’m currently use daily `.js`,`.css`, `.html`
 - 👯 I’m looking to collaborate on : Projects that make me to think.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
