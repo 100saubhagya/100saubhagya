@@ -2,6 +2,9 @@
 ![logo](https://github.com/100saubhagya/100saubhabya/blob/main/full-stack-development.gif)
 
 
+<a href="https://github.com/kunalyadava"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=%F0%9F%96%A5+An Aspiring+FullStack+Web+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></a>
+
+
 ## 🙋‍♂️ 
 #### <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, " '✌' Saubhagya Maurya"</h1>
 
