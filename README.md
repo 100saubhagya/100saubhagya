@@ -1,6 +1,8 @@
 ![avento](https://user-images.githubusercontent.com/104050919/230783315-438c3860-d944-4344-966f-6d2e032fb8bc.gif)
 ![logo](https://github.com/100saubhagya/100saubhabya/blob/main/full-stack-development.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalyadava&label=Profile%20views&color=0e75b6&style=flat" alt="kunalyadava" /> </p>
+
 
 <a href="https://github.com/kunalyadava"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=%F0%9F%96%A5+An Aspiring+FullStack+Web+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></a>
 
