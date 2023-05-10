@@ -19,6 +19,21 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
 - ⚡ Fun fact **I  make  fun somtimes..**
 
 
+<div align="left"><h2 > 🌐 Socials</h2> 
+  <p align="left"></p>
+<img align="left" width="70" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/>
+  
+  
+  
+<br/>
+ 
+<p align="left">
+<a href = "https://www.linkedin.com/in/100saubhagya/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href = "https://www.instagram.com/saubhagya11111_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href = "saubhagyamaurya11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.canva.com/design/DAFdvVX-wXE/bbLfLChdl8P_VJIqqf_JjA/edit?utm_content=DAFdvVX-wXE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
+
+
 <h2 align="center">:computer: Tech Stacks </h2>
 
 <div align="center">
