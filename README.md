@@ -18,7 +18,7 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
 
 - 📫 How to reach me **saubhagyamaurya11@.com**
 
-- ⚡ Fun fact **I  make  fun somtimes..**
+
 
 
 <div align="left"><h2 > 🌐 Socials</h2> 
