@@ -115,7 +115,7 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
 
 
 
-**Saubhagya/Saubhagya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<i> Saubhagya/Saubhagya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</i>
 
 Here are some ideas to get you started:
 
