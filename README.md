@@ -1,10 +1,10 @@
 ![avento](https://user-images.githubusercontent.com/104050919/230783315-438c3860-d944-4344-966f-6d2e032fb8bc.gif)
 ![logo](https://github.com/100saubhagya/100saubhabya/blob/main/full-stack-development.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalyadava&label=Profile%20views&color=0e75b6&style=flat" alt="kunalyadava" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100saubhagya&label=Profile%20views&color=0e75b6&style=flat" alt="saubhagya" /> </p>
 
 
-<a href="https://github.com/kunalyadava"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=%F0%9F%96%A5+An Aspiring+FullStack+Web+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></a>
+<a href="https://github.com/100saubhagya"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=%F0%9F%96%A5+An Aspiring+FullStack+Web+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></a>
 
 
 ## 🙋‍♂️ 
@@ -88,7 +88,7 @@ I'm a passionate Full Stack WEB DEVELOPER  and I am interested in developing new
 <br/> 
   
   
- <p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=100saubhagya&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="saubhagya's Github Graph" /> </p> 
+ <p  align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=100saubhagya&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="saubhagya's Github Graph" /></p> 
 <h4 align="center">
 
 
